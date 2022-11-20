@@ -1,2 +1,2 @@
-# hydra-education.github.io
-Hydra Education github pages site for the public [OFFICIAL]
+# Hydra Education Test Download
+Thank you for supporting the project!
