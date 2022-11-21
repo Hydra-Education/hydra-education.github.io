@@ -1,2 +1,2 @@
-# Hydra Education Test Download
-Thank you for supporting the project!
+# Hydra Education
+[Terms of Service](/hydraagreement.md)
